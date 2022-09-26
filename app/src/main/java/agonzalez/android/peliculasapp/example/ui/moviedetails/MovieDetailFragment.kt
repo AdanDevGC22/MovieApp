@@ -1,5 +1,6 @@
-package agonzalez.android.peliculasapp
+package agonzalez.android.peliculasapp.example.ui.moviedetails
 
+import agonzalez.android.peliculasapp.R
 import agonzalez.android.peliculasapp.databinding.FragmentMovieDetailBinding
 import android.os.Bundle
 import android.view.View
